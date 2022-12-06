@@ -1,0 +1,80 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+
+body, html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FEFBF6;
+}
+
+
+.line{
+    background-color: red;
+    width: 120px;
+    height: 3.5px;
+    margin: 5px auto;
+    border-radius: 5px;
+} */
+
+
+/*Menu*/
+ 
+
+/* .item{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size:30px;
+    font-weight: 800;
+    padding-top: 50px;
+}
+
+.Menu .row{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    height: 50%;
+    margin-top: 50px;
+}
+
+.Menu .row .col{
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    flex-direction:column;
+    display: flex;
+   
+}
+.Menu .row .col img{
+    width: 200px;
+    margin: 100px;
+    text-align: center;
+    line-height: 75px;
+}
+
+.Menu img{
+    transition: transform .3s ease;
+}
+
+.Menu img:hover{
+    transform: scale(1.1);
+}
+
+.card{
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+    background-color:whitesmoke;
+    border-radius: 20px;
+    margin: 2.6px;
+
+}  */
